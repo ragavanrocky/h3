@@ -10,4 +10,4 @@ for i in range(a1):
         if c[i]>c[i-1]:
             y[i]=y[i]+y[i-1]
 print(sum(y))
-fgh
+
